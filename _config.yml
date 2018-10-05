@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+
+title: Tao Han
+
+description: Welcome to the homepage of Tao Han
+
+logo: assets/img/tao.jpeg
+
+show_downloads: false
